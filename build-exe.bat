@@ -14,7 +14,7 @@ if [%a%] NEQ [] (
 ECHO is on
 :main
 echo.
-echo Name is: %a%
+echo Name is: 10015
 pyinstaller --clean --onefile --noconsole -i NONE -n %a% main.py
 rmdir /s /q __pycache__
 rmdir /s /q build
